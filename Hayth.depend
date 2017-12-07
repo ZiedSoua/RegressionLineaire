@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1512616857 source:c:\users\zied\documents\codeblockprojects\hayth\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<vector>
+
